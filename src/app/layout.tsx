@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Guest Recovery Email Generator",
-  description: "Hotel front desk tool for composing empathetic guest recovery emails",
+  title: "Lazy Agent",
+  description: "Your AI assistant that does the heavy lifting for you",
 };
 
 export default function RootLayout({
